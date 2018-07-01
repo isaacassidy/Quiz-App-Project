@@ -1,0 +1,73 @@
+<resources>
+    //This is the heading of the quiz
+    <string name="heading">Welcome to Quiz</string>
+    //This is the name displayed on the top bar
+    <string name="app_name">Quiz App</string>
+
+    /** This relates to the first question**/
+    // This is the heading of the first question
+    <string name="ques_head_1">Question 1</string>
+    //This is the first question
+    <string name="ques_1">1 Which of the following movie characters is(are) from Marvel Studios</string>
+    //This is the first option
+    <string name="answer_1">Capt.America</string>
+    //This is the second option
+    <string name="answer_2">Thanos</string>
+    //This is the third option
+    <string name="answer_3">Superman</string>
+    //This is the fourth option
+    <string name="answer_4">Hulk</string>
+
+    /** This relates to the second Question**/
+    //This the heading to the second question
+    <string name="Ques_head_2">Question 2</string>
+    //This is the second question
+    <string name="ques_2">Which answer expresses the meaning of the specified word best </string>
+    <string name="reassuring">reassuring</string>
+    //This is the first option
+    <string name="ans_1_2">compassionate</string>
+    //This is the second option
+    <string name="ans_2_2">comforting</string>
+    //this is the third option
+    <string name="ans_3_2">explanatory</string>
+    //This is the fourth option
+    <string name="ans_4_2">meddlesome</string>
+    //This is the hint to the first text box
+    <string name="hint_1">Write your name here</string>
+
+    /**This relates to the third question**/
+    //This is the heading to the third question
+    <string name="Ques_head_3">Question 3</string>
+    //This is the third question
+    <string name="ques_3">Which number logically follows this series</string>
+    <string name="ques_3_continuation">4,6,9,14,6,....</string>
+    //This is the first option
+    <string name="ans_1_3">6</string>
+    //This is the second option
+    <string name="ans_2_3">17</string>
+    //This is the third option
+    <string name="ans_3_3">19</string>
+    //This is the fourth option
+    <string name="ans_4_3">21</string>
+
+    /** This relates to the fourth question**/
+    //This is the heading to the fourth question
+    <string name="Ques_head_4">Question 4</string>
+    //This is the fourth question
+    <string name="ques_4">Which conclusion follows from the statements with absolute certainty</string>
+    <string name="ques_4_continuation_1">1 None of the stamp collectors is an architect</string>
+    <string name="ques_4_continuation_2">2 All the drones are stamp collectors</string>
+    //This is the first option
+    <string name="ans_1_4">all stamp collectors are architects</string>
+    //This is the second option
+    <string name="ans_2_4">architects are not drones</string>
+    //This is the third option
+    <string name="ans_3_4">no stamp collectors are drones</string>
+    //This is the fourth option
+    <string name="ans_4_4">some drones are architects</string>
+
+    /**This relates to the button**/
+    //This is the button text
+    <string name="button">submit</string>
+
+    </resources>
